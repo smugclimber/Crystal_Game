@@ -1,0 +1,62 @@
+body{
+  background: url("https://pre00.deviantart.net/9567/th/pre/f/2012/027/1/8/speedpaint__dark_cave_by_daanil-d4ns5u9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  margin:0; /*gets rid of white space around body*/
+}
+h1{
+text-align: center;
+}
+
+}
+#crystals{
+position: relative;
+margin: auto;
+}
+
+#gameTitle{
+  background-color: white;
+  width: 500px;
+  border-width:medium;
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+  text-align: center;
+}
+
+#subTitle{
+
+}
+
+#direstionsBox{
+background-color: white;
+  width: 600px;
+}
+
+#direction{
+  background-color: white;
+}
+
+#stats{
+background-color: white;
+width: 100px;
+font-weight: bold;
+}
+
+#scoreBox{
+  font-size: 28pt;
+  position: fixed; /*Here's what sticks it*/
+  bottom:0;          /*to the bottom of the body/page*/
+  left:0;
+  background-color: white;
+  padding: 30px;
+  font-weight: bold;
+}
+
+#crystals{
+  position: fixed; /*Here's what sticks it*/
+  bottom:0;          /*to the bottom of the body/page*/
+  left:28%;
+}
